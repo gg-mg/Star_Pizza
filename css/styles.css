@@ -1,0 +1,11 @@
+#checkoutBtn,
+#delivery,
+#delivery #deliveryLocation {
+  display: none;
+}
+.jumbotron{
+    background-image: url(../img/header.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
